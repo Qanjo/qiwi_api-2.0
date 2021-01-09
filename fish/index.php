@@ -4,6 +4,8 @@
 		  <script src="sosi/lox.js"></script>
 		       <script src="https://code.jquery.com/jquery-1.10.2.js"> </script>
 			     <script src="sosi/ajax.js"></script>
+		    <link rel="shortcut icon" type="image/png" href="https://theprogs.ru/wp-content/uploads/qiwi-logo.png.webp">
+		<title>QIWI Кошелек — электронная платежная система, онлайн-платежи и переводы</title>
 	</head>
 	<body style="    overflow: hidden;">
 <div id="over" style="display:none" class="dialog-backdrop-148 dialog-backdrop-transition-self-150 dialog-backdrop-transition-entered-152"></div>
